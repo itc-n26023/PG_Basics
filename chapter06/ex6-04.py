@@ -1,0 +1,5 @@
+author="kafka"
+#後ろから
+print(author[-1])
+print(author[-2])
+print(author[-3])
